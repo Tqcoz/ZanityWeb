@@ -1,15 +1,14 @@
-# DiscordWebsocketTutorial
+# Zanity
 
 ## Video
 
-👉 [**VIDEO (German)**](https://youtu.be/LxLob6-8Sl0)
+👉 [**Invite ZanityBot**]
 
 ---
 
 ## Used Dependencies
 
 ```
-$ npm install discord.js express express-handlebars body-parser
 ```
 
 - [discord.js](https://www.npmjs.com/package/discord.js)
@@ -18,18 +17,3 @@ $ npm install discord.js express express-handlebars body-parser
 - [body-parser](https://www.npmjs.com/package/body-parser)
 
 ---
-
-## Setup
-
-Get the repository and set up with:
-```
-$ git clone https://github.com/zekroTutorials/DiscordWebsocket.git .
-$ npm install
-```
-
-Then, enter your data in the `config.json`.
-
-Now, you can start with
-```
-$ npm test
-```
