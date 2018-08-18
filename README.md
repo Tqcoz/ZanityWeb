@@ -1,6 +1,6 @@
-# Zanity
+# Zanity Bot
 
-## Video
+## Invite
 
 👉 [**Invite ZanityBot**]
 
