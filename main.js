@@ -1,5 +1,6 @@
 const { Client } = require('discord.js')
 const WS = require('./ws/ws')
+const token = process.env.token
 
 // load config.json
 const config = require('./config.json')
@@ -19,4 +20,4 @@ client.on('ready', () => {
 })
 
 // Logging in Discord Bot at the API
-client.login(TOKEN.TOKEN)
+client.login(token)
